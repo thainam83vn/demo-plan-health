@@ -1,0 +1,82 @@
+{
+    "plan": {
+        "planNumber": "12345",
+        "planName": "ADP",
+        "balances": {
+            "totalAccountBalance": "122345.0334",
+            "loanBalance": "10234.1",
+            "forfeitureBalance": 2045
+        },
+        "performance": {
+            "2017": [
+                {
+                    "month": "January",
+                    "monthCode": "Jan",
+                    "value": 0.04
+                },
+                {
+                    "month": "February",
+                    "monthCode": "Feb",
+                    "value": 0.05
+                },
+                {
+                    "month": "March",
+                    "monthCode": "Mar",
+                    "value": 0.06
+                },
+                {
+                    "month": "April",
+                    "monthCode": "Apr",
+                    "value": 0.12
+                },
+                {
+                    "month": "May",
+                    "monthCode": "May",
+                    "value": 0.08
+                },
+                {
+                    "month": "June",
+                    "monthCode": "Jun",
+                    "value": 0.09
+                },
+                {
+                    "month": "July",
+                    "monthCode": "Jul",
+                    "value": 0.09
+                },
+                {
+                    "month": "August",
+                    "monthCode": "Aug",
+                    "value": 0.06
+                },
+                {
+                    "month": "September",
+                    "monthCode": "Sep",
+                    "value": 0.0576
+                },
+                {
+                    "month": "October",
+                    "monthCode": "Oct",
+                    "value": 0.1034
+                },
+                {
+                    "month": "November",
+                    "monthCode": "Nov",
+                    "value": 0.09
+                },
+                {
+                    "month": "December",
+                    "monthCode": "Dec",
+                    "value": 0.0092
+                }
+            ],
+            "2018": [
+                {
+                    "month": "January",
+                    "monthCode": "Jan",
+                    "value": 0.012
+                }
+            ]
+        }
+    }
+}
